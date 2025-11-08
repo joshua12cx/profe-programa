@@ -1,0 +1,5 @@
+key,value
+n_train,1440.0
+n_test,360.0
+train_prevalence,0.45416666666666666
+test_prevalence,0.45555555555555555

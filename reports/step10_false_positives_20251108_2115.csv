@@ -1,0 +1,8 @@
+edad,imc,p_a_sistolica,p_a_diastolica,hipertension,diabetes,creatinina,ant_fam_hiper,tec_repro_asistida
+34,20.35,126,75,SI,NO,1.19,NO,NO
+18,19.09,122,78,NO,NO,1.2,SI,SI
+18,25.46,137,79,SI,NO,1.16,SI,SI
+25,20.39,127,75,NO,NO,1.2,NO,NO
+27,18.75,125,70,SI,NO,1.2,NO,NO
+25,24.49,129,78,SI,SI,1.14,SI,SI
+24,26.34,128,77,SI,NO,1.2,SI,SI

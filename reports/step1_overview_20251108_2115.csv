@@ -1,0 +1,5 @@
+key,value
+data_file,Preeclampsia_data_clean.csv
+n_rows,1800
+n_cols,9
+prevalence_RIESGO,0.45444444444444443
